@@ -1,0 +1,4 @@
+1 - Download da Ferramenta Orange em: https://orangedatamining.com/download/
+2 - Instalação Plugin Time Series - Options > Add Ons > TimeSeries. (Talvez precise instalar a lib: pip install filelock
+3 - Download da serie temporal: https://github.com/helvecioneto/orange-tutorial/blob/main/climatreinar.xlsx
+4 - Abrir aquivo no Orange
